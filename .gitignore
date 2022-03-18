@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
+cloc_out.txt
+cloc_out.json
 
 # C extensions
 *.so

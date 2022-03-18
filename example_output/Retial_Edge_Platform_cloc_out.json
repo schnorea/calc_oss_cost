@@ -1,0 +1,45 @@
+{
+    "Git-Repo": "https://github.com/Retail-Edge-Platform/Retail-Edge-Platform.git",
+    "CSS": {
+        "files": 16,
+        "blank": 8035,
+        "comment": 138,
+        "code": 33836,
+        "cost": 609048
+    },
+    "Javascript": {
+        "files": 21,
+        "blank": 5538,
+        "comment": 3647,
+        "code": 19821,
+        "cost": 356778
+    },
+    "HTML": {
+        "files": 8,
+        "blank": 1926,
+        "comment": 6,
+        "code": 14173,
+        "cost": 255114
+    },
+    "Python": {
+        "files": 9,
+        "blank": 191,
+        "comment": 340,
+        "code": 679,
+        "cost": 12222
+    },
+    "YAML": {
+        "files": 1,
+        "blank": 8,
+        "comment": 1,
+        "code": 64,
+        "cost": 1152
+    },
+    "sum": {
+        "files": 55,
+        "blank": 15698,
+        "comment": 4132,
+        "code": 68573,
+        "cost": 1234314
+    }
+}

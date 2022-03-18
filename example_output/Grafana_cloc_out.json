@@ -1,0 +1,108 @@
+{
+    "Git-Repo": "https://github.com/grafana/grafana.git\\n",
+    "Go": {
+        "files": 1566,
+        "blank": 38431,
+        "comment": 13656,
+        "code": 233664,
+        "cost": 4205952
+    },
+    "Javascript": {
+        "files": 144,
+        "blank": 3031,
+        "comment": 2681,
+        "code": 16809,
+        "cost": 302562
+    },
+    "SASS": {
+        "files": 119,
+        "blank": 1790,
+        "comment": 1038,
+        "code": 12349,
+        "cost": 222282
+    },
+    "YAML": {
+        "files": 143,
+        "blank": 1212,
+        "comment": 3389,
+        "code": 7931,
+        "cost": 142758
+    },
+    "HTML": {
+        "files": 70,
+        "blank": 549,
+        "comment": 13,
+        "code": 7030,
+        "cost": 126540
+    },
+    "Bourne Shell": {
+        "files": 108,
+        "blank": 627,
+        "comment": 318,
+        "code": 2274,
+        "cost": 40932
+    },
+    "CSS": {
+        "files": 7,
+        "blank": 180,
+        "comment": 70,
+        "code": 1186,
+        "cost": 21348
+    },
+    "Bourne Again Shell": {
+        "files": 14,
+        "blank": 114,
+        "comment": 80,
+        "code": 523,
+        "cost": 9414
+    },
+    "Python": {
+        "files": 4,
+        "blank": 69,
+        "comment": 130,
+        "code": 427,
+        "cost": 7686
+    },
+    "make": {
+        "files": 7,
+        "blank": 88,
+        "comment": 28,
+        "code": 255,
+        "cost": 4590
+    },
+    "SQL": {
+        "files": 3,
+        "blank": 4,
+        "comment": 0,
+        "code": 81,
+        "cost": 1458
+    },
+    "XML": {
+        "files": 3,
+        "blank": 3,
+        "comment": 0,
+        "code": 55,
+        "cost": 990
+    },
+    "PHP": {
+        "files": 1,
+        "blank": 0,
+        "comment": 0,
+        "code": 21,
+        "cost": 378
+    },
+    "ASP.Net": {
+        "files": 1,
+        "blank": 1,
+        "comment": 0,
+        "code": 12,
+        "cost": 216
+    },
+    "sum": {
+        "files": 2190,
+        "blank": 46099,
+        "comment": 21403,
+        "code": 282617,
+        "cost": 5087106
+    }
+}
